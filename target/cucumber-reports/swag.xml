@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.425">
+    <testcase classname="Swaglabs login fuctionality in web application" name="Login fuctionality of the application" time="3.364">
+        <system-out><![CDATA[Given user launches swag "https://www.saucedemo.com/" application...........passed
+When user enter the user name in user textbox...............................passed
+When user enter the password in pass textbox................................passed
+And user clicks the login button............................................passed
+Then user verifies the product homepage.....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
